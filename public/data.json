@@ -1,0 +1,65 @@
+[
+    {   "id": 1,
+        "title": "Medical Supplies for Local Clinic",
+        "image": "./Health.png",
+        "category": "Health",
+        "description": "Help support our local clinic by donating essential medical supplies. Your contribution will provide masks, gloves, sanitizers, and other necessary items to ensure the safety of healthcare workers and patients. With your donation, we can continue to provide quality healthcare services to our community. Join us in making a difference in the lives of those in need.",
+        "price": 50.00
+    },
+    {   "id": 2,
+        "title": "Books for Underprivileged Students",
+        "image": "./Education.png",
+        "category": "Education",
+        "description": "Empower underprivileged students by donating educational books and materials. Your generosity will enable these students to access essential learning resources they may not otherwise have. By providing textbooks, notebooks, and stationery, you're helping to shape a brighter future through education. Join us in making education accessible to all.",
+        "price": 20.00
+    },
+    {   "id": 3,
+        "title": "Warm Clothing Drive for Homeless",
+        "image": "./Clothing.png",
+        "category": "Clothing",
+        "description": "Join our warm clothing drive and help provide comfort to the homeless community. Your donation of jackets, sweaters, blankets, and other warm clothing items will make a significant impact during cold seasons. With your support, we can ensure that those without shelter stay warm and protected. Let's come together to spread warmth and kindness.",
+        "price": 30.00
+    },
+    {   "id": 4,
+        "title": "Food Essentials for Families in Need",
+        "image": "./Food.png",
+        "category": "Food",
+        "description": "Support families facing food insecurity by donating essential food items. Your contribution of rice, grains, canned goods, and cooking oil will help alleviate hunger and provide nourishment to those in need. Together, we can ensure that every family has access to nutritious meals and a stable food supply. Join us in the fight against hunger and food insecurity.",
+        "price": 40.00
+    },
+    {   "id": 5,
+        "title": "Warm Clothing Drive for Homeless",
+        "image": "./Clothing.png",
+        "category": "Clothing",
+        "description": "Join our warm clothing drive and help provide comfort to the homeless community. Your donation of jackets, sweaters, blankets, and other warm clothing items will make a significant impact during cold seasons. With your support, we can ensure that those without shelter stay warm and protected. Let's come together to spread warmth and kindness.",
+        "price": 30.00
+    },
+    {   "id": 6,
+        "title": "Food Essentials for Families in Need",
+        "image": "./Food.png",
+        "category": "Food",
+        "description": "Support families facing food insecurity by donating essential food items. Your contribution of rice, grains, canned goods, and cooking oil will help alleviate hunger and provide nourishment to those in need. Together, we can ensure that every family has access to nutritious meals and a stable food supply. Join us in the fight against hunger and food insecurity.",
+        "price": 40.00
+    },
+    {   "id": 7,
+        "title": "Medical Supplies for Local Clinic",
+        "image": "./Health.png",
+        "category": "Health",
+        "description": "Help support our local clinic by donating essential medical supplies. Your contribution will provide masks, gloves, sanitizers, and other necessary items to ensure the safety of healthcare workers and patients. With your donation, we can continue to provide quality healthcare services to our community. Join us in making a difference in the lives of those in need.",
+        "price": 50.00
+    },
+    {   "id": 8,
+        "title": "Books for Underprivileged Students",
+        "image": "./Education.png",
+        "category": "Education",
+        "description": "Empower underprivileged students by donating educational books and materials. Your generosity will enable these students to access essential learning resources they may not otherwise have. By providing textbooks, notebooks, and stationery, you're helping to shape a brighter future through education. Join us in making education accessible to all.",
+        "price": 20.00
+    },
+    {   "id": 9,
+        "title": "Medical Supplies for Local Clinic",
+        "image": "./Health.png",
+        "category": "Health",
+        "description": "Help support our local clinic by donating essential medical supplies. Your contribution will provide masks, gloves, sanitizers, and other necessary items to ensure the safety of healthcare workers and patients. With your donation, we can continue to provide quality healthcare services to our community. Join us in making a difference in the lives of those in need.",
+        "price": 50.00
+    }
+]
