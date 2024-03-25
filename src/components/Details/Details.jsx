@@ -1,13 +1,18 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 
 const Details = () => {
-    const detailsData = useLoaderData();
-    const { detailsId } = useParams();
-    // console.log(detailsId);
-    const details = detailsData.find(detail => detail.id === parseInt(detailsId))
-    console.log(details)
-    const { title, description, price, image } = details;
+    const data = useLoaderData();
+    console.log(data);
+    const {detailsId} = useParams();
+    const intId = parseInt(detailsId);
+    console.log(intId);
+
+    const details = data.find(d => d.id === intId);
+    console.log(details);
+
+    const {title, image, description, price} = details;
+    
     return (
         <div className='max-w-6xl mx-auto mt-9 space-y-3 px-2 md:px-0 '>
             <div className='relative'>
